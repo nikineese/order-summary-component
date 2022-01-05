@@ -5,7 +5,6 @@ body{
     background-repeat: repeat-x;
     background-size: auto 50%;
     background-color: hsl(225, 100%, 94%);
-    padding-top: 100px;
 }
 .container-content {
     margin: 0 auto;
@@ -21,7 +20,7 @@ body{
     background-color: white;
     border-radius: 20px;
     font-family: Red Hat Display, sans-serif;
-    margin: 50px;
+  
 
 }
 .card-img img{
