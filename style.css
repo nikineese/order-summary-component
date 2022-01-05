@@ -5,7 +5,7 @@ body{
     background-repeat: repeat-x;
     background-size: auto 50%;
     background-color: hsl(225, 100%, 94%);
-    padding-top: 180px;
+    padding-top: 100px;
 }
 .container-content {
     margin: 0 auto;
